@@ -1,0 +1,12 @@
+﻿
+# 
+
+- CQRS Inc. fulfills customer orders
+
+- A customer can order any available quantity of a single product
+- 
+
+- A product is deliverable if it is in stock or begin restocked
+- A product is available if it is deliverable or can be restocked
+
+
